@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    background: #222C54;
+    padding: 2% 0px;
+}
+.social-icons{
+    font-size: 32px;
+}
+.social-icons a{
+    
+    margin-right: 12px;
+}
+.footer-logo{
+    min-height: 128px;
+}
+.footer li{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+}
+.footer li{
+    margin-bottom: 20px;
+}
+.list-unstyled{
+    margin-top: 60px;
+}
+@media only screen and (max-width: 767px) {
+    .footer-logo{
+        width: 244px;
+height: 96px;
+    }
+    .social-icons{
+        font-size: 24px;
+    }
+    .footer li{
+        font-size: 20px;
+line-height: 150%;
+    }
+}

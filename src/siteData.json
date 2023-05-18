@@ -1,0 +1,100 @@
+{
+  "Navbar": [
+    {
+      "image": "images/logo 1.png"
+    },
+    {
+      "navLinks": [
+        {
+          "text": "Home",
+          "href": "#action1"
+        },
+        {
+          "text": "Business",
+          "href": "#action2"
+        },
+        {
+          "text": "Personal",
+          "href": "#action2"
+        },
+        {
+          "text": "About",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "Homepage": [
+    {
+      "heading": "All-in-one financial solutions!",
+      "paragraph": "The app that builds commerce, community and culture.",
+      "text":"Download the app now!",
+      "image": "images/1 1.png",
+      "playstore": "images/Group 10 (1).png",
+      "appstore": "images/Group 7.png"
+    },
+    {
+      "heading": "Fast, secure international transfers",
+      "paragraph": "With an ever-growing global network, Seremo makes sending money to your friends and family fast, safe and hassle-free. ",
+      "image": "images/image21.png"
+    },
+    {
+      "heading": "A new way to crowdfund",
+      "paragraph": "Working together towards a funding goal is easier than ever. Share your passion project with your community and raise money collaboratively.",
+      "image": "images/image 12.png"
+    },
+    {
+      "heading": "Fast, secure international transfers",
+      "paragraph": "With an ever-growing global network, Seremo makes sending money to your friends and family fast, safe and hassle-free.",
+      "image": "images/image 23.png"
+    },
+    {
+      "heading": "Seremo for business",
+      "paragraph": "Revolutionize the way you do business with Seremo's financial tools. Manage all your client and vendor invoicing efficiently, pay bills, and increase your revenue all in one place.",
+      "image": "images/open.png"
+    },
+    {
+      "heading": "Join our global community!",
+      "paragraph": "Available internationally, Seremo brings the world to your fingertips. Shop, invest, budget, sell —  this all-in-one money management system connects you to endless possibilities.",
+      "image": "images/image 4.png"
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "About",
+      "href": "#"
+    },
+    {
+      "text": "Personal",
+      "href": "#"
+    },
+    {
+      "text": "Business",
+      "href": "#"
+    },
+    {
+      "text": "Support",
+      "href": "#"
+    },
+    {
+      "text": "How it works",
+      "href": "#"
+    },
+    {
+      "text": "Security",
+      "href": "#"
+    },
+    {
+      "text": "Legal",
+      "href": "#"
+    },
+    {
+      "text": "Terms and Conditions",
+      "href": "#"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "#"
+    }
+  ]
+}

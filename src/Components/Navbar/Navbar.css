@@ -1,0 +1,35 @@
+.navbarMain {
+  background: #222c54;
+}
+.navLinks {
+  margin: auto;
+}
+.navLinks a {
+  margin-right: 28px;
+}
+.brandLogo {
+  width: 249.57px;
+  height: 100px;
+}
+.navbarMain a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+}
+.btn11 {
+  color: white !important;
+  background: #4a7973 !important;
+  padding: 13px 56px;
+}
+.custom-toggle .navbar-toggler-icon {
+  filter: brightness(100%) invert(100%);
+  font-size: 30px;
+  padding: 13px!important;
+}
+@media only screen and (max-width: 767px) {
+.brandLogo{
+  width: 183.91px;
+    height: 77px;
+}
+}
